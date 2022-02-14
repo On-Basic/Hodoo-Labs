@@ -1,34 +1,80 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 원티드 프리 온보딩 - 메인 페이지 구현
 
-## Getting Started
+## 호두랩스 / 견적 요청 페이지 구현
 
-First, run the development server:
+## 프로젝트 소개
 
-```bash
-npm run dev
-# or
-yarn dev
+- 호두랩스의 메인 페이지 구현
+
+## 팀원 소개
+
+🏃‍ [민지연](https://github.com/ichbinmin2)(팀장)<br/>
+🏃‍ [박서윤](https://github.com/seoyuuun)<br/>
+🏃‍ [양다혜](https://github.com/dahye-program)<br/>
+
+## 배포 주소
+
+[배포 사이트 바로가기]()
+
+## 과제 구현 목록
+
+### (박서윤)
+
+☑️ 
+
+
+### (민지연)
+
+☑️ 
+
+### (양다혜)
+
+☑️ 
+
+<br/>
+
+## 기능 구현 영상
+
+☑️ 
+
+![example]()
+
+
+## 프로젝트 과정 소개
+
+## 과제 후기
+
+### 🙋‍♀️ 박서윤
+
+<br/>
+
+### 🙋‍♀️ 양다혜
+
+<br/>
+
+
+### 🙋‍♀️ 민지연
+
+(프로젝트 회고 주소 첨부 예정)
+
+<br/>
+
+## 설치 및 시작하는 법
+
+**프로젝트 클론**
+
+```
+$ git clone https://github.com/On-Basic/Hodoo-Labs.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**패키지 설치**
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```
+$ yarn
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+**서버 실행**
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```
+$ yarn dev
+```

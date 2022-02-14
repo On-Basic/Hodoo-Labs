@@ -114,3 +114,5 @@
     flex-direction: column;
   }
 }
+
+/* 다른 컴포넌트 등에서 import 해서 사용 (다양하게 생성 가능) **/
