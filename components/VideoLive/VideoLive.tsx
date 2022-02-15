@@ -1,7 +1,7 @@
-import React, { ReactElement } from 'react';
+import React from 'react';
 import styled from 'styled-components';
 
-const VideoLive = (): ReactElement => {
+const VideoLive: React.FC = () => {
   const title = `랜선 라이브 북클래스`;
   const text =
     `친구들과 함께
