@@ -7,6 +7,7 @@ import VideoLive from "components/VideoLive/VideoLive";
 import Checkbooks from "components/Checkbooks/Checkbooks";
 import TodayClass from "components/Todayclass/Todayclass";
 import Diary from "components/Diary/Diary";
+import Bookmarks from "components/Bookmark/Bookmarks";
 import Footer from "components/Footer/Footer";
 
 const Home: NextPage = () => {
@@ -17,6 +18,7 @@ const Home: NextPage = () => {
       <Checkbooks />
       <TodayClass />
       <Diary />
+      <Bookmarks />
       <Footer />
     </div>
   );
