@@ -39,7 +39,9 @@ export default Checkbooks;
 const Container = styled.section`
   display: flex;
   align-items: center;
-  margin: 0px auto;`;
+  margin: 0px auto;
+  background-color: #f9f9f9;
+`;
 
 const Wrapper = styled.div`
   display: flex;
