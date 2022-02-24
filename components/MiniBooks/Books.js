@@ -25,8 +25,8 @@ const Books = () => {
     { id: 17, src: '/assets/mini-books/img_book_7.png', alt: 'book-img17', },
     { id: 18, src: '/assets/mini-books/img_book_8.png', alt: 'book-img18', },
     { id: 19, src: '/assets/mini-books/img_book_9.png', alt: 'book-img19', },
-
-  ]
+  ];
+  
   const settings = {
     dots: false,
     infinite: true,
