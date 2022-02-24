@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import Books from '../MiniBooks/Books';
 
 const MiniBooks: React.FC = () => {
   const title = `입학 전 1000권 읽기!
@@ -59,9 +60,4 @@ const Text = styled.div`
   white-space: pre-wrap;
   text-align: center;
   margin-top: 30px;
-`;
-
-const Books = styled.div`
-  width: 100%;
-  height: 300px;
 `;
